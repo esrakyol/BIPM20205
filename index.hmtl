@@ -1,1 +1,29 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Academic Journey Map</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        iframe {
+            width: 90%;
+            height: 600px;
+            border: 2px solid #333;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Academic Journey Map 🌍</h1>
+    <p>Interactive map of my academic journey across Europe</p>
+
+    <!-- Embed the HTML map using iframe -->
+    <iframe src="academic_journey_map.html" title="Academic Journey Map"></iframe>
+</body>
+</html>
